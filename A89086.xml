@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pious and learned speech delivered in the High Court of Parliament, 1. H. 4. by Thomas Mercks then Bishop of Carlile. Wherein hee gravely and judiciously declares his opinion concerning the question, what should be done with the deposed King Richard the Second.</title>
+            <author>Merke, Thomas, d. 1409.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89086</idno>
+            <idno type="STC">Wing M1826</idno>
+            <idno type="STC">Thomason E200_51</idno>
+            <idno type="STC">ESTC R13379</idno>
+            <idno type="EEBO-CITATION">99859467</idno>
+            <idno type="PROQUEST">99859467</idno>
+            <idno type="VID">111550</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89086)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111550)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E200[51])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pious and learned speech delivered in the High Court of Parliament, 1. H. 4. by Thomas Mercks then Bishop of Carlile. Wherein hee gravely and judiciously declares his opinion concerning the question, what should be done with the deposed King Richard the Second.</title>
+                  <author>Merke, Thomas, d. 1409.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for N. V. and J. B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Printers' device on t.p. var., without initials, of McK. 299.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Richard --  II, --  King of England, 1367-1400.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111550:1" rendition="simple:additions"/>
+            <p>A Pious and Learned SPEECH DELIVERED IN THE HIGH COURT OF <hi>Parliament,</hi> 1. <hi>H.</hi> 4. by <hi>THOMAS MERCKS</hi> then Biſhop of CARLILE.</p>
+            <p>WHEREIN HEE GRAVELY AND Judiciouſly Declares his opinion concer<g ref="char:EOLhyphen"/>ning the Queſtion, <hi>What ſhould be done with the Depoſed King <hi>RICHARD</hi> the Second.</hi>
+            </p>
+            <figure>
+               <q>VERITAS VIRES<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>IT VVLNERE</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>London</hi> printed for <hi>N. V.</hi> and <hi>J. B.</hi> 
+               <gap reason="illegible: page cropped" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:111550:2"/>
+            <head>A Speech wiſe and Religious, <hi>Spoken in the High Court of Parliament in the</hi> I. <hi>yeare of the Raigne of H. the</hi> 4. <hi>by the pious, learned, pillar of the Church, Thomas Mercks Biſhop. of</hi> CARLILE.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Homas Mercks</hi> the Biſhop of <hi>Carlile,</hi> a man that uſed both liberty and conſtancie in a good cauſe; in his private judgement, having never allowed theſe proceedings, but diſſembled his diſlike, till fit time to declare it, being in a place to be heard, and by the order of the Houſe, not to be inter<g ref="char:EOLhyphen"/>rupted of any, roſe up, and with a grave countenance, and ſet<g ref="char:EOLhyphen"/>led courage, ſaid; This Queſtion (right Honourable) con<g ref="char:EOLhyphen"/>cerneth a matter of great conſequence and weight, the deter<g ref="char:EOLhyphen"/>mining whereof will aſſuredly procure either quiet or tur<g ref="char:EOLhyphen"/>moyle, both to the publike State, and our particular conſcien<g ref="char:EOLhyphen"/>ces. Therefore before any reſolution thereof be given, I be<g ref="char:EOLhyphen"/>ſeech you to take into your more ſerious conſideration, theſe two things: Firſt, whether King <hi>Richard</hi> be ſufficiently de<g ref="char:EOLhyphen"/>poſed or not: Secondly, whether King <hi>Henry</hi> be by Inſtice and good adviſement ſeated in the Succeſſion: In the firſt point is to be examined, whether a King by lineall ſucceſſion, crowned, annointed, and lawfully inveſted, may upon impu<g ref="char:EOLhyphen"/>tation, either of negligence or tyranny, be depoſed by his Subjects? ſecondly, what <hi>Richard</hi> had omitted in the one, or committed in the other, that might deſerve that heavie judge<g ref="char:EOLhyphen"/>ment? <hi>I</hi> will not diſpute what may be done, in a Popular, or Conſular eſtate, in which though one beareth the Title and Honour of a Prince, yet he hath no ſupreme power of a King. But in the one the Nobility, and chiefe men of State; in the other, the people have greateſt Prerogative: in neither the Prince. Of the laſt ſort was the Common wealth of the <hi>La<g ref="char:EOLhyphen"/>cedemonians,</hi> who by that forme of government which <hi>Licur<g ref="char:EOLhyphen"/>gus</hi>
+               <pb facs="tcp:111550:2"/>
+framed, oftentimes fined, ſometimes fettered their Prin<g ref="char:EOLhyphen"/>ces, ſometimes put them to death; ſuch were the petty Kings in <hi>France</hi> in <hi>Caeſars</hi> time, who were oftentimes arraigned and executed: and the Princes of the <hi>Leodi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſes,</hi> as <hi>Ambiorix</hi> confeſſed, had no greater power over their ſubjects, than their ſubjects had over them. And of the ſecond condition were the <hi>Roman</hi> Emperours at the firſt, being ſubject to the cenſure of the <hi>Senate;</hi> and ſuch are now the Emperours of <hi>Germany;</hi> whom the other Princes by their <hi>Ariſtocraticall</hi> power, doe not onely reſtraine, but ſometimes remove; ſuch are the Kings of <hi>Denmarke</hi> and <hi>Swethland,</hi> who are many times by their Nobility dejected, either into priſon or exile: ſuch are the Dukes of <hi>Venice,</hi> and ſome other free States of <hi>Italy:</hi> And the chiefeſt cauſe why <hi>Lewis</hi> Earle of <hi>Flanders,</hi> was lately ex<g ref="char:EOLhyphen"/>pelled, was for aſſuming unto himſelfe the Cognizance of life and death, which Authority was never incident to his Dig<g ref="char:EOLhyphen"/>nity. In theſe and ſuch like Governments, the Prince hath not abſolute Regality, but is himſelfe ſubject to that power, which is more tranſcendent then his, whether it be in the No<g ref="char:EOLhyphen"/>bility or multitude. But if the Soveraigne Majeſty be in the Prince, as it was in the firſt three Emperours, and in the Kingdomes of <hi>Iudaea</hi> and <hi>Iſrael,</hi> and is now in the Kingdomes of <hi>England, France, Scotland, Spaine, Muſcovia, Turkie, Tar<g ref="char:EOLhyphen"/>tary, Perſia, Ethiopia,</hi> and almoſt all the Kingdomes of <hi>Aſia,</hi> and <hi>Africa;</hi> although for his vices, he be unprofitable to the Subjects, yea hurtfull, yea untollerable; yet can they neither hazzard his power, nor harme his perſon, either by judiciall proceedings, or by force; for neither one, nor all Magiſtratec have any Authority over the Prince, from whom all Autho<g ref="char:EOLhyphen"/>rity is derived, and whoſe onely preſence doth ſilence and ſuſpend all inferiour Iuriſdiction and ſorce. And for power, what Subject can aſſiſt or counſell, or conceale violence a<g ref="char:EOLhyphen"/>gainſt his Prince, and not incurre the high and heinous crime of fawſonry or treaſon; it is a common ſaying, <hi>thought is free,</hi> free indeed from puniſhment of ſecular Lawes, except by word or deed it breake forth into action; yet the ſecret thoughts againſt the ſacred Majeſty of a Prince, without at<g ref="char:EOLhyphen"/>tempt, without endeavour, have beene adjudged to death.
+<pb facs="tcp:111550:3"/>
+And ſome, who in auricular confeſſion, have diſcovered their treacherous deviſes againſt the King in perſon, have for the ſame beene executed. All Lawes do exempt a mad man from puniſhment, becauſe their actions are not governed by their will, and the will of man being ſet apart, all his deeds are in<g ref="char:EOLhyphen"/>different, neither can the body offend without a corrupt or er<g ref="char:EOLhyphen"/>roneous minde, yet if a mad-m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n but draw his weapon upon his King, it hath been adjudged worthy death. And leſt any man ſhould ſurmiſe, that Princes for the maintenance of their owne ſafety, and ſoveraignty, are the onely authors of theſe Judgements; Let us examine with conſideration, the patterns and precepts, to this purpoſe ſet forth in the ſacred Text. <hi>Ne<g ref="char:EOLhyphen"/>buchadnezzar</hi> King of <hi>Aſſyria,</hi> waſted all <hi>Paleſtine</hi> with fire and ſword, oppugned the whole Citie a great while, and at the laſt expugned it; ſlaughtered the King, burnt the Temple, carryed away the holy Veſſels and Treaſure, and permitted the Souldiers with unmercifull cruelty to ſpoile and ranſack all the people with fire and ſword, and whom from thence had eſcaped, and the peſtilence had ſpared, he led captive into <hi>Chal<g ref="char:EOLhyphen"/>dea,</hi> and there erected his Golden image; commanding thoſe that refuſed to worſhip it, to be caſt into the firy Furnace: notwithſtanding God calleth <hi>Nebuchadnezzar</hi> his ſervant, and promiſeth him wages for his ſervice. And the Prophets <hi>Ieremiah</hi> and <hi>Barucke,</hi> did write unto the Jewes to pray for the life of him, and of <hi>Balthazar</hi> his ſonne, that their dayes upou earth might be as the dayes of Heaven: And <hi>Ezechiel</hi> with bitter tearmes upbraideth the diſloyaltie of <hi>Zedechiah,</hi> for revolting from <hi>Nebuchadnezzar,</hi> after homage done unto him. Did not <hi>Saul</hi> put all the Prieſts to death, becauſe one of them did relieve holy and harmleſſe <hi>David?</hi> Did he not pro<g ref="char:EOLhyphen"/>ſecute his faithfull ſervant, and dutifull ſon-in-law, yet was not hee ſpared, nay, protected by him? And was not <hi>David</hi> much grieved for but taking away the lap of his garment, and afterwards cauſed the meſſenger to be ſlaine, that upon re<g ref="char:EOLhyphen"/>queſt, and ſor pitty did lend his hand (as himſelfe reported) to haſten the voluntary death of that ſacred King? As for the contrary examples of <hi>Iehu,</hi> they were done by expreſſe Oracle and Revelation from God, and are no more ſet downe for our
+<pb facs="tcp:111550:3"/>
+imitation, than the robbing of the Egyptians, or any other particular or priviledged commandement, but in the generall precept, which all men muſt generally follow: not only our actions, but our ſpeeches alſo, and our very thoughts are ſtrictly charged, with duty and obedience to Princes, whether they be good or evill. The Law of God ordaineth, That <hi>hee that do<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h preſumptuouſly againſt the Prince, ſhall dye,</hi> Deut. 17. 12. And the Prophet <hi>David</hi> forbiddeth both by precept and practice, to touch the Lords anointed: <hi>Thou ſhall not</hi> (ſaith the Lord) <hi>Raile upon the Iudges, neither ſpeake evill of the Ru<g ref="char:EOLhyphen"/>ler of the people.</hi> And the Apoſtles doe demand further, that even our thoughts and ſoules, be obedient to higher powers. And leſt any ſhould imagine, that they meant of good Princ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s onely, they ſpeake generally of all. And further, to take a<g ref="char:EOLhyphen"/>way all doubt, they make expreſſe mention of the evill: For the power and Authority of wicked Princes, is the ordnance of God. And therefore Chriſt told <hi>Pilate,</hi> That the power which he had, was given him from above. And the Prophet <hi>Eſay</hi> called <hi>Cyrus,</hi> being a prophane and Heathen Prince, the Lords anointed: For, God turneth the hearts even of wic<g ref="char:EOLhyphen"/>ked Princes to doe his will. And as <hi>Iehoſaphat</hi> ſaid to his Ru<g ref="char:EOLhyphen"/>lers, They execute not the judgement of man, but of the Lord. In regard whereof <hi>David</hi> calleth them Gods, becauſe they have the rule and authority even from God, which if they doe abuſe, they are not to be adjudged by their Subjects, for no power within their Dominion is ſuperiour to theirs. But God reſervcth them to their ſoreſt tryall, <hi>Horribly and ſuddenly</hi> (ſaith the Wiſeman) <hi>will the Lord appeare to them, and a hard judgement ſhall they have.</hi> The Law of God com<g ref="char:EOLhyphen"/>mandeth, that the childe ſhould be put to death, for any con<g ref="char:EOLhyphen"/>tumely done unto the parents: but what if the Father bee a Robber? if a murtherer? if ſor exceſſe of villanies, odious and execrable both to God and man<g ref="char:punc">▪</g> ſurely he deſerveth the greateſt degree of puniſhment, and yet muſt not the ſonne lift up his hand againſt him for no man can be ſo great an offender as to be puniſhed by parricide. But our Country is (or ought to bee) more deare to us than our Parents. And the
+<pb facs="tcp:111550:4"/>
+Prince is the Father of the Countrey, and therefore more ſa<g ref="char:EOLhyphen"/>cred and deare to us, then our Parents by nature, and muſt not be violated, how imperious, how impious ſoever he be? Doth he command or demand our purſes or perſons? we muſt not ſhun the one, nor ſhrink from the other; for as <hi>Nehemiah</hi> ſaith, Kings have dominion over the Cattell of their Subjects at their pleaſure. Doth hee injoyne thoſe actions, which are contrary to the Lawes of God, we muſt neither wholly obey, nor violently reſiſt, but with a conſtant courage, ſubmit our ſelves to all manner of puniſhment, and ſhew our ſubjection, by ſuffering and not performing; yea, the Church hath de<g ref="char:EOLhyphen"/>clared it to be an Hereſie, to hold, that a Prince may be ſlaine, or depoſed by his Subjects, for any default or diſorder of life, or default in Government. There will be defaults ſo long as long as there be men; and as we endure with patience, a bar<g ref="char:EOLhyphen"/>ren yeare, if it happen, and unſeaſonable weather; ſo muſt we tollerate the imperfections of Rulers, and quietly expect ei<g ref="char:EOLhyphen"/>ther reformation or alteration, But alas! what ſuch cruelty what ſuch impiety, hath King <hi>Richard</hi> committed? examine the imputations objected, with the falſe circumſtance of ag<g ref="char:EOLhyphen"/>gravation, and you ſhall finde but little of truth, or of great moment; it may be many overſights have eſcaped (as who lives without offending) yet none ſo grievous to be termed tyranny, as proceeding rather from unexperienced ignorance, or corrupt counſell, than from any naturall or wilfull malice. Oh! how ſhould the world be peſtered with tyrants, if Sub<g ref="char:EOLhyphen"/>jects might be permitted to rebell, upon pretence of tyranny; how many good Princes ſhould often be ſuppreſſed by thoſe by whom they ought to be ſupported? if they but levie a Sub<g ref="char:EOLhyphen"/>ſidie, or any other taxation, it ſhall be judged oppreſſion; if they put any to death for traiterous attempts againſt their perſons, it ſhall be exclaimed at for cruelty; if they ſhall doe any thing againſt the good liking of their people, it ſhall bee proclaimed Tyrannie.</p>
+            <p>But let it be that without deſert in him, or authority in us, King <hi>Richard</hi> muſt be depoſed; yet what right hath the Duke of <hi>Lancaſter</hi> to the Crowne? or what reaſon have we, with<g ref="char:EOLhyphen"/>out right, to give it him? If he make Title as Heire to King
+<pb facs="tcp:111550:4"/>
+               <hi>Richard,</hi> then muſt he ſtay King <hi>Richards</hi> death; for no man can ſucceed as heire to the living; But 'tis well knowne to all men, who are not wilfully blind, or groſly ignorant: that there are ſome yet alive, lineally deſcended from <hi>Lionel</hi> Duke of <hi>Clarence,</hi> whoſe iſſue by the judgement of the high Court of Parliament, in the 8. yeare of K. <hi>Richards</hi> Reigne, was de<g ref="char:EOLhyphen"/>clared heire apparant to the Crowne in caſe King <hi>Richard</hi> ſhould dye without iſſue. The claime from <hi>Edmund Crouch<g ref="char:EOLhyphen"/>backe,</hi> I paſſe over the Authors thereof, themſelves being a<g ref="char:EOLhyphen"/>ſhamed of ſo abſurd an abuſe; And therefore all the pretence now on foot, is by right of Conqueſt, and the Kings reſigna<g ref="char:EOLhyphen"/>tion and grant, and the conſent of the many: it is bad ſtuffe that will take no colour; what conqueſt can a Subject make a<g ref="char:EOLhyphen"/>gainſt a Soveraigne, where the warre is inſurrection, and the victory high Treaſon? King <hi>Richards</hi> reſignation, being in priſon, is an act of exaction by force, and therefore of no force to bind him; And by the Lawes of this Realme, the King by himſelfe cannot alienate, the ancient Jewels and ornaments of the Crowne, much leſſe give away his Crowne and King<g ref="char:EOLhyphen"/>dome. And cuſtome wee have none, for the vulgar to elect their King, but they are alwayes tyde to accept of him, whom the right of ſucceſſion enables to the Crowne, much leſſe can they make good that Title, which is by violence uſurped; For nothing can be ſaid to be freely done, when liberty is re<g ref="char:EOLhyphen"/>ſtrained by feare; As for the depoſing of <hi>Edward</hi> the Se<g ref="char:EOLhyphen"/>cond, it is no more to be urged, than the poyſoning of King <hi>Iohn,</hi> or the murthering of a lawfull Prince: we muſt live ac<g ref="char:EOLhyphen"/>cording to Lawes, not Examples, yet the Kingdome then was not taken from lawfull Succeſſours; But if we looke backe to times paſt, we ſhall finde that theſe Titles were more ſtrong in King <hi>Stephen,</hi> than they are now in the Duke of <hi>Lancaſter,</hi> for King <hi>Henry</hi> the 1. being at liberty, neither reſtrained, nor conſtrained, the people aſſented to this deſignement, and thereupon without feare or force he was anointed, and crow<g ref="char:EOLhyphen"/>ned King. Yet <hi>Henry Fitzempreſſe,</hi> having a neerer right to the Crowne by his Mother (notwithſtanding his Father was a ſtranger, and he borne beyond the Seas) never ceaſed the proſecution of bloody warres, to the great effuſion of blood,
+<pb facs="tcp:111550:5"/>
+and ſpoyling the Countrey, untill his lawfull inheritance was aſſured him. It terrifieth me but to thinke, how many flouri<g ref="char:EOLhyphen"/>ſhing Kingdomes have been by ſuch contentions, either rent by inteſtine diviſion, or ſubdued to forraigne Princes, under pretence of aſsiſtance and aide. This Kingdome hath had too wofull experience of theſe ſeverall miſchiefes, and yet neither examples of other Countreys, or miſeries of our owne, are ſuf<g ref="char:EOLhyphen"/>ficient to make us be wary. Certainely, I feare, it will betide us, as it did to <hi>Eſops</hi> Frogges, who being deſirous to have a King, had a beame given them, the firſt fall affrighted them, but when they ſaw it lye ſtill, they contemptuouſly inſulted thereon, and deſired a King of more active ſpirit; Then a Storke was ſent them, which ſtalking amongſt them, daily de<g ref="char:EOLhyphen"/>voured them, King <hi>Richards</hi> mildneſſe hath bred in us this ſcorne, interpreting it to be cowardiſe and dulneſſe of nature; I dare not ſay (yet give me leave to ſuſpect) with greater cou<g ref="char:EOLhyphen"/>rage, we may finde greater cruelty. And thus have I declared my opinion, with more words, you may perhaps conjecture than wiſdome, yet fewer then the waight of the cauſe did require: And I doe reſolutely conclude, that we have neither power nor policie, either to depoſe King <hi>Richard,</hi> or in his place to Elect Duke <hi>Henry;</hi> That King <hi>Richard</hi> remaineth ſtill our Soveraigne Lord, and therefore it is not lawfull for us to give judgement againſt him; That the Duke whom you are pleaſed to ſtile King, hath more tranſgreſſed the King and Realme, than <hi>Richard</hi> hath done either againſt him or us; For he being baniſhed the Realme for ten yeares by the King and Councell (amongſt whom his owne father was chiefe) and given oath not to returne without ſpeciall licenſe; Hee hath not only broken his oath, but diſturbed the peace of the Land, diſpoſſeſſed the King of his Royall eſtate, and now deman<g ref="char:EOLhyphen"/>deth judgement againſt his perſon, without offence proved, or defence heard; if this injury move not, yet let both our private and publike dangers ſomewhat withdraw us from theſe violent proceedings.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
